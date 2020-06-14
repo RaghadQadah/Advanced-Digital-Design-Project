@@ -9,6 +9,8 @@ BEGIN
 	c<=a AND b AFTER 7 ns;
 END;  
 
+			     
+
 
 
 LIBRARY ieee;
